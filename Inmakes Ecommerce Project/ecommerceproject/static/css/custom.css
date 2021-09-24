@@ -1,0 +1,156 @@
+body {
+font-family: 'Roboto', sans-serif;
+
+}
+
+.nav-item {
+letter-spacing:0.15em;
+font-size:1rem;
+text-transform:uppercase;
+
+}
+
+.dropdown-item {
+letter-spacing:0.15em;
+font-size:1rem;
+text-transform:uppercase;
+}
+.foot-change {
+ background-color:ivory;
+ min-height:5vh;
+}
+.foot-change p {
+ padding-top:1em;
+ padding-bottom:1em;
+ font-size:1rem;
+}
+
+.my_row_class {
+padding-top:1em;
+
+}
+.my_row_class .mx-auto{
+text-align:center;
+font-size:1.8rem;
+}
+.my_row_class .mx-auto a {
+text-decoration:none;
+color:black;
+
+}
+
+.my_image {
+width:100px;
+
+}
+
+.pro-img {
+width:45%;
+height:auto;
+}
+
+.my_title{
+font-size:1.5rem;
+text-transform:uppercase;
+letter-spacing:0.08em;
+text-align:center;
+margin-bottom:0.75em;
+}
+.my_image .my_image_padding{
+padding:1em;
+
+}
+
+.my_bottom_margin {
+margin-bottom:2em;
+}
+
+
+.card-body h4 {
+font-size:1rem;
+text-transform:uppercase;
+letter-spacing:0.2em;
+}
+
+.logo{
+max-width:6.65rem;
+}
+
+.my_prod_row_class {
+padding-top:0.85em;
+padding-bottom:0.10em;
+
+}
+
+.my_prod_row_class .mx_auto{
+color:black;
+font-size:1.25rem;
+text-decoration:none;
+
+}
+.my_prod_title {
+font-size:1.57rem;
+text-transform:uppercase;
+padding-top:0.85em;
+padding-bottom:0.07em;
+
+}
+.my_title {
+text-align:left;
+font-size:1.11rem;
+padding-bottom:0.50em;
+font-weight:400;
+text-decoration:underline;
+font-family:cursive;
+
+}
+my_prod_text{
+padding-right:1em;
+}
+.check {
+padding-top:0.55em;
+}
+
+.my_search_text{
+padding-top:2em;
+}
+
+.my_cutsom_table{
+min-width:5rem;
+font-size:1rem;
+}
+.my_cutsom_thead{
+font-weight:normal;
+text-transform:uppercase;
+letter-spacing:0.09em;
+background-color:ivory!important;
+font-size:0.95rem;
+}
+.change2{
+letter-spacing:0.09em;
+background-color:ivory!important;
+font-size:0.95rem;
+font-weight:normal;
+text-transform:uppercase;
+}
+
+.custom_a {
+text-decoration:none;
+}
+.custom_icon{
+text-decoration:none;
+color:red !important;
+}
+.my_custom_button{
+margin-top:0.50em;
+}
+
+.custom_image {
+width:55%;
+
+}
+
+.change {
+font-size:0.93rem;
+}
+
